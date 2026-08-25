@@ -18,6 +18,7 @@
 <p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
 ## 🔭 About Me
+<table> <tr> <td width="35%" valign="top"> <img width="100%" src="profile-picture.jpg" alt="profile picture"> </td> <td width="65%" valign="top">
 
 ```yaml
 Name        : Bobby Singha
@@ -25,12 +26,13 @@ Role        : Aspiring Computational Astrophysicist
 Base        : Assam, India
 Education   : B.Tech, Computer Science & Engineering (2022 - 2026)
               The Assam Royal Global University, Guwahati
-WhoamI      : CS undergrad who likes pointing code at the sky.
+
+Who am I      : CS undergrad who likes pointing code at the sky.
               Started out building small robots and databases,
               now most late nights go into astronomical data -
               star catalogues, light curves, cosmic-ray counts.
+
 CurrentGrind: Exoplanet transit detection in real TESS light curves
-SideQuests  : Cosmic-ray muon detection - swarm robotics - citizen science
 Languages   : Python, SQL, C++
 Toolbelt    : NumPy, Pandas, PyTorch, Matplotlib, Flask, CoppeliaSim,
               Git, MySQL, MongoDB, SQLite
@@ -40,21 +42,6 @@ Goal        : Contribute to real research at the intersection of
 
 <p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
-## 🛰️ Featured Project
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🔭 [Astronomical Search Engine](https://github.com/Bobby515-code/Astronomical-Search-Engine)
-
-A full-stack Flask + SQLite web app for searching, filtering, and
-analysing **2.7M+ real stars** from ESA's Gaia DR3 catalogue (plus
-Hipparcos and SIMBAD data). Search by star name, magnitude, distance,
-or spectral type, get real-time autocomplete, and export results to
-CSV — all wrapped in a dark, space-themed interface.
-
-`Python` `Flask` `SQLite` `Pandas` `NumPy`
 
 </td>
 <td width="45%">
@@ -65,8 +52,8 @@ CSV — all wrapped in a dark, space-themed interface.
 
 ## CURRENTLY BUILDING
 
-- **Robust Exoplanet Transit Detection in TESS Data** — a research-oriented Python pipeline for real TESS light-curve data, comparing conventional detrending against Gaussian-process modelling and testing transit recovery through controlled signal-injection experiments.
-- **Muon Detector — Cosmic Ray Detection** — a low-cost coincidence detector built from two Geiger-Müller tubes and microcontrollers, recording coincident radiation events and exploring ground-level cosmic-ray muon detection.
+- **Robust Exoplanet Transit Detection in TESS Data** - a research-oriented Python pipeline for real TESS light-curve data, comparing conventional detrending against Gaussian-process modelling and testing transit recovery through controlled signal-injection experiments.
+- **Muon Detector — Cosmic Ray Detection** - a low-cost coincidence detector built from two Geiger-Müller tubes and microcontrollers, recording coincident radiation events and exploring ground-level cosmic-ray muon detection.
 
 
 
@@ -101,6 +88,6 @@ CSV — all wrapped in a dark, space-themed interface.
 
 <p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
-<h3 align="center">Thanks for stopping by — clear skies! 🔭✨</h3>
+<h3 align="center">Thanks for stopping by - clear skies! 🔭✨</h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=footer" />
