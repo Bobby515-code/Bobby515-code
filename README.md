@@ -18,7 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=Bobby515-code&style=for-the-badge&color=000000&label=Profile+Views" />
 </p>
 
-<p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
 ##  About Me
 
@@ -87,7 +86,6 @@ Goal         : Contribute to real research at the intersection of
   <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
 
 <h3 align="center">Thanks for stopping by - clear skies! </h3>
