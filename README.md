@@ -1,9 +1,9 @@
   
 <p align="center">
-  <img src="cool-background-blank-wallpaper-place-your-concept.jpg" alt="black hole" width="100%">
+  <img src="blackhole (2).jpg" alt="black hole" width="100%">
 </p>
 
-<h1 align="center">Hi there, I'm Bobby Singha 👋</h1>
+<h1 align="center">Hi there , I'm Bobby Singha </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Aspiring+Computational+Astrophysicist;B.Tech+CSE+Student+%40+Assam+Royal+Global+University;Robotics+and+Machine+Learning+Enthusiast;Exploring+the+Universe%2C+One+Line+of+Code+at+a+Time" alt="Typing SVG" />
