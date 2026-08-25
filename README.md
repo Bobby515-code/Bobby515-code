@@ -1,4 +1,4 @@
-
+  
 <p align="center">
   <img src="cool-background-blank-wallpaper-place-your-concept.jpg" alt="black hole" width="100%">
 </p>
@@ -18,42 +18,54 @@
 <p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
 ## 🔭 About Me
-<table> <tr> <td width="35%" valign="top"> <img width="100%" src="anime-style-character-space.jpg" alt="profile picture"> </td> <td width="65%" valign="top">
+
+<table>
+<tr>
+
+<td width="42%" valign="top">
+
+<img width="100%" src="__killy_blame_drawn_by_kyezzzz__5b95484a2deab29a86f8c0d42ab0fec9.jpg" alt="profile picture">
+
+</td>
+
+<td width="58%" valign="top">
 
 ```yaml
-Name        : Bobby Singha
-Role        : Aspiring Computational Astrophysicist
-Base        : Assam, India
-Education   : B.Tech, Computer Science & Engineering (2022 - 2026)
-              The Assam Royal Global University, Guwahati
+Name         : Bobby Singha
+Role         : Aspiring Computational Astrophysicist
+Base         : Assam, India
 
-Who am I      : CS undergrad who likes pointing code at the sky.
-              Started out building small robots and databases,
-              now most late nights go into astronomical data -
-              star catalogues, light curves, cosmic-ray counts.
+Education    : B.Tech, Computer Science & Engineering (2022 - 2026)
+               The Assam Royal Global University, Guwahati
 
-CurrentGrind: Exoplanet transit detection in real TESS light curves
-Languages   : Python, SQL, C++
-Toolbelt    : NumPy, Pandas, PyTorch, Matplotlib, Flask, CoppeliaSim,
-              Git, MySQL, MongoDB, SQLite
-Goal        : Contribute to real research at the intersection of
-              computation, intelligent systems, and space science 🚀
+Who am I     : CS undergrad who likes pointing code at the sky.
+               Started out building small robots and databases,
+               now most late nights go into astronomical data -
+               star catalogues, light curves, cosmic-ray counts.
+
+CurrentGrind : Exoplanet transit detection in real TESS light curves
+
+Languages    : Python, SQL, C++
+
+Toolbelt     : NumPy, Pandas, PyTorch, Matplotlib, Flask,
+               CoppeliaSim, Git, MySQL, MongoDB, SQLite
+
+Goal         : Contribute to real research at the intersection of
+               computation, intelligent systems, and space science 🚀
 ```
 
 <p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
 
 </td>
-<td width="45%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bobby515-code&repo=Astronomical-Search-Engine&theme=tokyonight&hide_border=true" />
-</td>
+
 </tr>
 </table>
 
 ## CURRENTLY BUILDING
 
-- **Robust Exoplanet Transit Detection in TESS Data** - a research-oriented Python pipeline for real TESS light-curve data, comparing conventional detrending against Gaussian-process modelling and testing transit recovery through controlled signal-injection experiments.
-- **Muon Detector — Cosmic Ray Detection** - a low-cost coincidence detector built from two Geiger-Müller tubes and microcontrollers, recording coincident radiation events and exploring ground-level cosmic-ray muon detection.
+- **Robust Exoplanet Transit Detection in TESS Data** : a research-oriented Python pipeline for real TESS light-curve data, comparing conventional detrending against Gaussian-process modelling and testing transit recovery through controlled signal-injection experiments.
+- **Muon Detector - Cosmic Ray Detection** : a low-cost coincidence detector built from two Geiger-Müller tubes and microcontrollers, recording coincident radiation events and exploring ground-level cosmic-ray muon detection.
 
 
 
@@ -90,4 +102,4 @@ Goal        : Contribute to real research at the intersection of
 
 <h3 align="center">Thanks for stopping by - clear skies! 🔭✨</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:ffffff&height=120&section=footer" /> 
