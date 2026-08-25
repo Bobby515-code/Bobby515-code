@@ -27,7 +27,7 @@
 
 <td width="42%" valign="top">
 
-<img width="100%" src="__killy_blame_drawn_by_kyezzzz__5b95484a2deab29a86f8c0d42ab0fec9.jpg" alt="profile picture">
+<img width="100%" src="fffff.png" alt="profile picture">
 
 </td>
 
