@@ -1,19 +1,6 @@
-<!--
-  SETUP CHECKLIST before this goes live on your profile:
-
-  1. Save "blackhole-banner.jpg" into this repo at assets/blackhole-banner.jpg
-     (simplest alternative: drag the image into any GitHub comment/PR text box —
-     it auto-uploads and gives you a permanent link — then paste that link into
-     the <img src="..."> tag below instead of the relative path).
-  2. This file needs to live at the ROOT of your Bobby515-code/Bobby515-code repo
-     as README.md — GitHub then shows it automatically on your profile page.
-  3. Add a LinkedIn / portfolio badge in the badges row if you have one.
-  4. Everything below (stats, typing text, pin cards) pulls LIVE data once this
-     is on GitHub — nothing else to wire up.
--->
 
 <p align="center">
-  <img src="assets/blackhole-banner.jpg" alt="black hole" width="100%">
+  <img src="assets/cool-background-blank-wallpaper-place-your-concept.jpg" alt="black hole" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Bobby Singha 👋</h1>
