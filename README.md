@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/cool-background-blank-wallpaper-place-your-concept.jpg" alt="black hole" width="100%">
+  <img src="cool-background-blank-wallpaper-place-your-concept.jpg" alt="black hole" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Bobby Singha 👋</h1>
