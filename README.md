@@ -18,7 +18,7 @@
 <p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
 ## 🔭 About Me
-<table> <tr> <td width="35%" valign="top"> <img width="100%" src="profile-picture.jpg" alt="profile picture"> </td> <td width="65%" valign="top">
+<table> <tr> <td width="35%" valign="top"> <img width="100%" src="anime-style-character-space.jpg" alt="profile picture"> </td> <td width="65%" valign="top">
 
 ```yaml
 Name        : Bobby Singha
