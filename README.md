@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="mailto:singhaboby2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/b0302_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/Bobby515-code"><img src="https://img.shields.io/github/followers/Bobby515-code?style=for-the-badge&logo=github&label=Followers&color=6e40c9&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Bobby515-code&style=for-the-badge&color=6e40c9&label=Profile+Views" />
 </p>
@@ -43,8 +44,6 @@ Who am I     : CS undergrad who likes pointing code at the sky.
                now most late nights go into astronomical data -
                star catalogues, light curves, cosmic-ray counts.
 
-CurrentGrind : Exoplanet transit detection in real TESS light curves
-
 Languages    : Python, SQL, C++
 
 Toolbelt     : NumPy, Pandas, PyTorch, Matplotlib, Flask,
@@ -54,7 +53,6 @@ Goal         : Contribute to real research at the intersection of
                computation, intelligent systems, and space science 🚀
 ```
 
-<p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
 
 </td>
@@ -69,7 +67,7 @@ Goal         : Contribute to real research at the intersection of
 
 
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -87,18 +85,6 @@ Goal         : Contribute to real research at the intersection of
 
 <p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bobby515-code&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby515-code&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bobby515-code&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">⋆ &nbsp; . &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; . &nbsp; ⋆</p>
 
 <h3 align="center">Thanks for stopping by - clear skies! 🔭✨</h3>
 
