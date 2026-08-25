@@ -45,7 +45,7 @@ I am         : CS undergrad who likes pointing code at the sky.
                now most late nights go into astronomical data -
                star catalogues, light curves, cosmic-ray counts.
 
-what i like  : I like you
+what i like  : Starting projects with unimaginable confidence.
 
 Languages    : Python, SQL, C++
 
