@@ -65,7 +65,6 @@ Goal         : Contribute to real research at the intersection of
 
 ## CURRENTLY BUILDING
 
-- **Robust Exoplanet Transit Detection in TESS Data** : a research-oriented Python pipeline for real TESS light-curve data, comparing conventional detrending against Gaussian-process modelling and testing transit recovery through controlled signal-injection experiments.
 - **Muon Detector - Cosmic Ray Detection** : a low-cost coincidence detector built from two Geiger-Müller tubes and microcontrollers, recording coincident radiation events and exploring ground-level cosmic-ray muon detection.
 
 
